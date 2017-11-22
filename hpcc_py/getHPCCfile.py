@@ -111,8 +111,8 @@ def getFile(fileName, hpcc_addr, CSVlogicalFile):
         last = split + 1
 
     while not all(doneTest):
-		print('Waiting for chunks to complete')
-		sleep(30)
+        print('Waiting for chunks to complete')
+        sleep(30)
         doneTest = [future.done() for future in futures]
         print("Unfinished threads: " + str(len(doneTest) - sum(doneTest)))
         
