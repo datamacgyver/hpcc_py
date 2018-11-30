@@ -1,4 +1,5 @@
-**This was an ititial hackabout. It has now been superseeded by hpycc, available [here] (https://github.com/OdinProAgrica/hpycc)**
+**This was an ititial hackabout. It has now been superseeded by hpycc**
+hpycc is available [here](https://github.com/OdinProAgrica/hpycc)**
 
 # THORpyDownloader
 Scirpt to download HPCC files and script results. Just a quick hack my end so go easy on the quality. 
