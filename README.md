@@ -1,3 +1,5 @@
+**This was an ititial hackabout. It has now been superseeded by hpycc, available [here] (https://github.com/OdinProAgrica/hpycc)**
+
 # THORpyDownloader
 Scirpt to download HPCC files and script results. Just a quick hack my end so go easy on the quality. 
 
@@ -13,4 +15,4 @@ Note that while retrieving a file is a multithread process, running a script and
 Note that there is a dependency for client tools to run ECL scripts. This must be in your system path. 
 
 
-Tested and working on Windows 10, will make linux-able in the future (if it isn't already) 
+Tested and working on Windows 10, will make linux-able in the future (if it isn't already).
